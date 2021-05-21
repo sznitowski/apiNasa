@@ -10,7 +10,7 @@ body {
     background: linear-gradient(to right, #182848, #4b6cb7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 img {
-    width: 60%;
+    width: 80%;
     border: 4px solid white;
     border-radius: 4px;
 }
